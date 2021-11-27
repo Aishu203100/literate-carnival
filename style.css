@@ -1,0 +1,25 @@
+body
+{
+ background-image: url('background.jpg');
+  height:700px;
+}
+h3
+{
+ font-size: 25px !important;
+ box-shadow:5px 5px 5px gray;
+}
+canvas {
+ margin-top:40px;
+ border:5px solid white;
+ border-radius:20px;
+ box-shadow:5px 5px 5px grey;
+}
+p{
+background-color:white;
+}
+.custom_button{
+position:fixed;
+bottom:50px;
+right:41%;
+border-radius:50px;
+} 
